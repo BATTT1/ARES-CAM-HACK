@@ -1,0 +1,8 @@
+IP                   : 190.135.51.37
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Maldonado, Uruguay, South America
+GeoLocation(lat, lon): -34.905408, -54.9501708
+Currency             : Peso Uruguayo
